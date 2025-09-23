@@ -1,0 +1,35 @@
+## List of Required Equipment & Software ## 
+
+@@ Software Requirements
+Programming Language: Python (Version 3.8 or newer)
+
+Python Libraries (Dependencies):
+
+pandas: For data manipulation and analysis.
+
+numpy: For numerical operations.
+
+scikit-learn: For machine learning models (Random Forest, Isolation Forest, StandardScaler).
+
+tensorflow: For building and training deep learning models (LSTM, Transformer).
+
+matplotlib & seaborn: For data visualization.
+
+networkx: For graph creation and analysis in the rescue routing simulation.
+
+jupyter: For running the experimental notebooks.
+
+Development Environment: Visual Studio Code (VS Code) or any similar IDE.
+
+Version Control: Git and a GitHub account for code management.
+
+Operating System: Windows, macOS, or Linux.
+
+@@Hardware Requirements
+Computer: A standard desktop or laptop computer.
+
+CPU: Multi-core processor (e.g., Intel Core i5/i7, AMD Ryzen 5/7) is recommended to speed up model training.
+
+RAM: Minimum 8 GB of RAM, with 16 GB or more recommended for handling larger datasets and more complex models.
+
+GPU (Optional but Recommended): An NVIDIA GPU with CUDA support (e.g., GTX 1660, RTX 20/30/40 series) will significantly accelerate the training of the LSTM and Transformer deep learning models.
