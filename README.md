@@ -103,7 +103,7 @@ Then open the notebooks sequentially:
 
 ## 🤝 Contributors & Acknowledgements
 
-- **Project BY** [@jatinkumar3110](https://github.com/jatinkumar3110)  
+- **Project BY** [@jatinkumar3110](https://github.com/jatinkumar3110) Mugdhi Saxena, Sanya Uppal.  
 - **Supported by:** Risk Management Solutions (India), Ibadan Urban Flood Management Project  
 - **Data Sources:** USGS, Copernicus Climate Data Store, GIS Academy  
 
